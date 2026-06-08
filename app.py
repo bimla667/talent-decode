@@ -1090,6 +1090,7 @@ INDEX_TEMPLATE = """
 <!DOCTYPE html>
 <html lang="en">
 <head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="google-site-verification" content="bpw0E7Ya2Nm7aOVRcVUlrqd7swwYfvEI-29ej9ec6BE" />
 <title>AI Resume Scanner</title>
 """ + BASE_STYLE + """
 </head>
