@@ -1091,7 +1091,11 @@ INDEX_TEMPLATE = """
 <html lang="en">
 <head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="google-site-verification" content="bpw0E7Ya2Nm7aOVRcVUlrqd7swwYfvEI-29ej9ec6BE" />
-<title>AI Resume Scanner</title>
+
+<meta name="description" content="Upload your resume and get instant ATS score, resume analysis and suggestions to improve your CV.">
+<title>resume|scanner|Free AI Resume Scanner | ATS Resume Checker Online</title>
+
+<h1>AI Resume Scanner</h1>
 """ + BASE_STYLE + """
 </head>
 <body>
